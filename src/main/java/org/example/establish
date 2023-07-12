@@ -5,3 +5,5 @@ HttpRequest
         - queryString
     - Header
     - Body
+
+HttpResponse

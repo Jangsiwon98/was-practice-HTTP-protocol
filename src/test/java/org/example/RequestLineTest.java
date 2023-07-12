@@ -1,6 +1,5 @@
 package org.example;
 
-import org.example.calculate.RequestLine;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
